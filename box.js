@@ -1,1 +1,1 @@
-alert("aa gaya saala");
+alert("aa gaye sir");
