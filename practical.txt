@@ -35,7 +35,7 @@
   </ul>
 
   <h2>Featured Dish</h2>
-  <img src="food.jpg" alt="Delicious Dish" width="400">
+  <img src="https://www.freepik.com/photos/food" alt="Delicious Dish" width="400">
    
   
   <h2>Reservations</h2>
@@ -45,3 +45,4 @@
 </html>
 
   
+
