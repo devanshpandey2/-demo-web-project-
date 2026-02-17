@@ -4,11 +4,11 @@
   <title>Delicious Bites Restaurant</title>
 </head>
 <body>
-  <!-- Hero Section -->
+  
   <h1>Welcome to Delicious Bites</h1>
   <p>Experience the taste of authentic flavors!</p>
 
-  <!-- Menu Section -->
+  
   <h2>Our Menu</h2>
   <ul>
       <li>Starters
@@ -33,15 +33,15 @@
       </ul>
     </li>
   </ul>
-<!-- Food Image -->
+
   <h2>Featured Dish</h2>
   <img src="food.jpg" alt="Delicious Dish" width="400">
    
-  <!-- Reservation Link -
-    ->
+  
   <h2>Reservations</h2>
   <p>Book your table now:</p>
   <a href="reservation.html">Click here to reserve</a>
 </body>
 </html>
+
   
